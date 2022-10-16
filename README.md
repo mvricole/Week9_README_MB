@@ -10,7 +10,7 @@ Project Overview
 
 Table of Contents
 1. Acceptance Criteria
-2. Deployed Image
+2. Sample Video of Application
 3. Process
 
 Acceptance Criteria
