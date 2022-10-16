@@ -15,7 +15,7 @@ Table of Contents
 
 Acceptance Criteria
 -----------------------
-In order to complete this task, students were asked to create a quiz that does the following:
+In order to complete this task, students were asked to create a node application that does the following:
 
 
 Deployed Image
